@@ -53,6 +53,7 @@ neuro-clarity/
 ```
 
 ---
+https://github.com/user-attachments/assets/0acf4a4f-ca4e-4cb8-b61a-ab5683ecb2ab
 
 ## ⚙️ Installation
 
