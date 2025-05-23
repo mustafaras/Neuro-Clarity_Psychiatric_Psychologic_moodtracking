@@ -1,0 +1,16 @@
+streamlit
+streamlit-webrtc
+openai
+python-dotenv
+requests
+pandas
+numpy
+matplotlib
+seaborn
+pytesseract
+Pillow
+opencv-python
+deepface
+textblob
+pymupdf
+reportlab
