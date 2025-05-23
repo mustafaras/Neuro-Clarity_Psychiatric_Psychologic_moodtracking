@@ -58,8 +58,8 @@ neuro-clarity/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/mustafaras/neuro-clarity.git
-cd neuro-clarity
+git clone https://github.com/mustafaras/Neuro-Clarity_Psychiatric_Psychologic_moodtracking.git
+cd Neuro-Clarity_Psychiatric_Psychologic_moodtracking
 ```
 
 2. Install dependencies:
