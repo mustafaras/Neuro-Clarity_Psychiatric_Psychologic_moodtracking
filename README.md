@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/ece41f6f-6f2c-4036-a596-94460c7d2134)
 # 🧠 Neuro-Clarity: Psychology, Psychiatry & Multimodal Mental Health Dashboard
 
 **Neuro-Clarity** is an AI-powered, multimodal mental health monitoring system built with Streamlit. It allows clinicians, researchers, and digital health developers to collect and analyze diverse patient data (text, audio, video, health metrics) to gain structured insight into mood, psychiatric risk, and emotional congruence across modalities.
